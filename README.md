@@ -1,4 +1,4 @@
-# simple_tangible_prj_001
+# Simple Tangible Interaction Project #1
 
 This project is a set of instructions on how to build a very simple, tangible “touch” digital interface for an interactive video exhibition.  The user can hold, touch and examine physical pieces, and then insert them into the interface, to start up videos related to each piece.
 
