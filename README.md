@@ -9,3 +9,5 @@ The same strategies and technologies can then be used to build another projec
 We used these exact techniques to design and build an interactive museum exhibition.  The user could hold and touch 3d printed replicas of fragments of a Roman frieze (a decorative sculpture), and place them into a table, like a puzzle, triggering narrative videos describing the artifacts. The technology used was extremely inexpensive, yet robust enough for a permanent installation.
 
 This is an open-source project, so feel free to copy and alter it as you see fit—just share your work with others!
+
+https://simpletangible.wordpress.ncsu.edu/
